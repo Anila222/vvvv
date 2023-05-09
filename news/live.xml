@@ -1,11 +1,22 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://utv.ecg.njg.engineering.virginia.edu/dj/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://champions.league.ecg.njg.engineering.virginia.edu/news/">
 <channel>
 <title>University of Virginia</title>
-<link>https://utv.ecg.njg.engineering.virginia.edu/dj/</link>
+<link>http://champions.league.ecg.njg.engineering.virginia.edu/news/</link>
 <description/>
 <language>en</language>
-<item><title/><link>https://utv.ecg.njg.engineering.virginia.edu/dj/ire-vs-ban-live-en.html</link><description/></item>
-<item><title/><link>https://utv.ecg.njg.engineering.virginia.edu/dj/ire-vs-ban-live-cricket-en.html</link><description/></item>
-<item><title/><link>https://utv.ecg.njg.engineering.virginia.edu/dj/ire-vs-ban-live-cricket.html</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-v-manchester-citylive--in-champions-league-semi-final.01.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-v-manchester-city-live-in-free-champions-league-semi-final.02.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-v-manchester-city-live-in-semi-final.01.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-v-manchester-city-live-in-semi-final.06.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-v-manchester-citylive-live--in-semi-final.01.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-en.01.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-en.04.xml.</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-en.05.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-en.06.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-en.023.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-en.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-free-en.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-gtv-en.xml</link><description/></item>
+<item><title/><link>http://policy.ecg.njg.engineering.virginia.edu/news/real-madrid-vs-man-city-live-tv-en.07.xml</link><description/></item>
 </channel>
 </rss>
